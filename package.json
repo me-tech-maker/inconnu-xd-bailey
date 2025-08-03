@@ -29,7 +29,7 @@
   ],
   "scripts": {
     "lint": "eslint src --ext .js,.ts",
-    "lint:fix": "yarn lint --fix",
+    "lint:fix": "yarn lint --fix"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
